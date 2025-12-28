@@ -25,7 +25,7 @@ The objective of this experiment is to evaluate how system response time and err
 ---
 
 ## Step 2 — Select System Under Test (SUT)
-- **Name:** JSONPlaceholder  
+- **Name:** [JSONPlaceholder](https://github.com/typicode/jsonplaceholder)
 - **Type:** REST API  
 - **Version:** v0.3.3  
 - **Deployment:** Local execution  
