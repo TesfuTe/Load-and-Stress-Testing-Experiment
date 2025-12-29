@@ -1,6 +1,6 @@
 # Load and Stress Testing Experiment
 
-This document provides a step-by-step guide to conducting a load and stress testing experiment on a REST API using k6. It is structured to walk developers through environment setup, defining objectives, selecting the system under test, identifying critical endpoints, creating load profiles, implementing test scripts, executing baseline, peak, and stress tests, and finally analyzing results. Each section includes detailed instructions, timing estimates, and example scripts to ensure the experiment is reproducible and clearly demonstrates system performance under increasing load conditions.
+This document provides a step-by-step guide to conducting a load and stress testing experiment on a [jsonplaceholder](https://github.com/typicode/jsonplaceholder) REST API using k6. It is structured to walk developers through environment setup, defining objectives, selecting the system under test, identifying critical endpoints, creating load profiles, implementing test scripts, executing baseline, peak, and stress tests, and finally analyzing results. Each section includes detailed instructions, timing estimates, and example scripts to ensure the experiment is reproducible and clearly demonstrates system performance under increasing load conditions.
 
 ---
 
